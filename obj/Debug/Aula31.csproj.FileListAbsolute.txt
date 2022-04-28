@@ -1,0 +1,11 @@
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula31\bin\Debug\Aula31.exe.config
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula31\bin\Debug\Aula31.exe
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula31\bin\Debug\Aula31.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula31\obj\Debug\Aula31.csproj.AssemblyReference.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula31\obj\Debug\Aula31.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula31\obj\Debug\Aula31.Form1.resources
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula31\obj\Debug\Aula31.Properties.Resources.resources
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula31\obj\Debug\Aula31.csproj.GenerateResource.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula31\obj\Debug\Aula31.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula31\obj\Debug\Aula31.exe
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula31\obj\Debug\Aula31.pdb
